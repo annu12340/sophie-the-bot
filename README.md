@@ -2,6 +2,7 @@
  
   <p align="center">
  Are  you feeling bored? Well never again because! Our little digital friend Sophie is here for you to talk. Ask her questions, tell her about yourself and she will listen and interact with you always.
+	</p>
  
 ## Table of Content
 
